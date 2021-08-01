@@ -270,6 +270,7 @@ margin-right: 2px;
   .banner-area .info{
   height: 7.5%;
   top: 56.5%;
+	  z-index:1;
   position: absolute;
   }
   .info .pic-2, .pic-3, .pic-1{
