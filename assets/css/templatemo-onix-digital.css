@@ -315,13 +315,13 @@ margin-right: 2px;
  
   .content1 .download-but{
     position: absolute;
-    top: 40%;
+    top: 35%;
     left:25%;
     width: 50%;
   }
   .content1 .down-link{
     position: absolute;
-  top: 52%;
+  top: 40%;
   left:35%;
   text-decoration: none;
   color: black;
