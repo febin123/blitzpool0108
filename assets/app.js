@@ -43,7 +43,17 @@ window.addEventListener("scroll",function(){
 //   closeMenu.classList.closeMenu('active');
 //   mainMenu.classList.closeMenu('active');
 // }
+/*pop up*/
 
+document.getElementById("open-popup-btn").addEventListener("click",function(){
+  document.getElementsByClassName("popup")[0].classList.add("active");
+});
+ 
+document.getElementById("dismiss-popup-btn").addEventListener("click",function(){
+  document.getElementsByClassName("popup")[0].classList.remove("active");
+});
+
+/*end of pop up */
 
 /* scroll up*/
 
