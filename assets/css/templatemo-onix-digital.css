@@ -265,7 +265,20 @@ margin-right: 2px;
 
 
 @media (max-width: 722px) {
-
+ #open-popup-btn{
+    top: 49%;
+    display: block;
+    border: 0;
+    line-height: 1;
+    font-size: 16px;
+    padding: 16px 30px;
+    border-radius: 30px;
+    background: #fbad18;
+    color: black;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
  
   .banner-area .info{
   height: 7.5%;
